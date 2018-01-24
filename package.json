@@ -1,8 +1,8 @@
 {
-  "name": "expensify",
+  "name": "mtm",
   "version": "1.0.0",
   "main": "index.js",
-  "author": "Andrew Mead",
+  "author": "Diego Serrano",
   "license": "MIT",
   "scripts": {
     "serve": "live-server public/",
